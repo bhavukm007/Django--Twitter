@@ -29,15 +29,13 @@ This project demonstrates the implementation of a complete CRUD web application 
 
 ## Home Page
 
-
+![alt text](<Screenshot 2026-07-09 194827.png>)
 
 ---
 
 ## Registration Page
 
-> Replace the image below with your uploaded screenshot.
-
-![Registration Page](assets/registration-page.png)
+![alt text](<Screenshot 2026-07-09 194842.png>)
 
 ---
 
