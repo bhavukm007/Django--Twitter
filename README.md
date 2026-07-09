@@ -29,9 +29,7 @@ This project demonstrates the implementation of a complete CRUD web application 
 
 ## Home Page
 
-> Replace the image below with your uploaded screenshot.
 
-![Home Page](assets/home-page.png)
 
 ---
 
