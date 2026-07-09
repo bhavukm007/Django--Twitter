@@ -1,4 +1,4 @@
-<img width="1918" height="1020" alt="Screenshot 2026-07-09 194842" src="https://github.com/user-attachments/assets/e4e62479-42b0-4f33-8cda-ccd8a85f30a6" /># 🐦 Django Twitter Clone
+Django Twitter Clone
 
 A feature-rich Twitter clone built using **Django** and **Bootstrap**, allowing users to register, authenticate, create tweets with images, and manage their own posts.
 
