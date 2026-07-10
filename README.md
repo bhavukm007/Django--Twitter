@@ -1,4 +1,4 @@
-# 🐦 Django Twitter Clone
+Django Twitter Clone
 
 A feature-rich Twitter clone built using **Django** and **Bootstrap**, allowing users to register, authenticate, create tweets with images, and manage their own posts.
 
@@ -29,13 +29,14 @@ This project demonstrates the implementation of a complete CRUD web application 
 
 ## Home Page
 
-![alt text](<Screenshot 2026-07-09 194827.png>)
+<img width="1912" height="997" alt="Screenshot 2026-07-09 194827" src="https://github.com/user-attachments/assets/70a4dbfa-6910-427a-9c12-0f8ee80ce084" />
 
 ---
 
 ## Registration Page
 
-![alt text](<Screenshot 2026-07-09 194842.png>)
+<img width="1918" height="1020" alt="Screenshot 2026-07-09 194842" src="https://github.com/user-attachments/assets/6700271f-c4c7-4ded-aadb-455d2fbcdaf9" />
+
 
 ---
 
